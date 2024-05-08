@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joanbrown1
 - 👀 I’m interested in Fullstack development
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me joannabrown833@gmail.com
 
 <!---
